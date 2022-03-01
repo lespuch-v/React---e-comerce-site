@@ -1,6 +1,6 @@
 # React---e-comerce-site
 Fun learning project build with React library.
-<h2>https://lespuch-v.github.io/</h2>
+<h2>https://lespuch-v.github.io/React---e-comerce-site/</h2>
 Tools
 <ul>
   <li>https://reactjs.org/docs/getting-started.html</li>
