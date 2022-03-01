@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React---e-comerce-site/static/css/main.6e421175.css",
-    "main.js": "/React---e-comerce-site/static/js/main.de5ee079.js",
+    "main.js": "/React---e-comerce-site/static/js/main.10239f7b.js",
     "static/media/muppets.png": "/React---e-comerce-site/static/media/muppets.8cb2cada610e7461ecbf.png",
     "static/media/pacman.png": "/React---e-comerce-site/static/media/pacman.7d87618d120f6387d3ed.png",
     "static/media/warcraft.jpg": "/React---e-comerce-site/static/media/warcraft.9e4ab915b2cdd30542bf.jpg",
@@ -40,10 +40,10 @@
     "static/media/next.svg": "/React---e-comerce-site/static/media/next.18aa13bdbb4c62eb48659be47329cfc5.svg",
     "static/media/back.svg": "/React---e-comerce-site/static/media/back.1c39f672774a9d39b5a6b682825df85f.svg",
     "main.6e421175.css.map": "/React---e-comerce-site/static/css/main.6e421175.css.map",
-    "main.de5ee079.js.map": "/React---e-comerce-site/static/js/main.de5ee079.js.map"
+    "main.10239f7b.js.map": "/React---e-comerce-site/static/js/main.10239f7b.js.map"
   },
   "entrypoints": [
     "static/css/main.6e421175.css",
-    "static/js/main.de5ee079.js"
+    "static/js/main.10239f7b.js"
   ]
 }
