@@ -19,7 +19,7 @@ export default function Navbar() {
 
   return (
     <div className="navbar">
-      <Link to="/">
+      <Link to="/React---e-comerce-site">
         <div className="navbar-right-side">
           <h3>Game Shop</h3>
           <img src={gamelogo} className="mygameLogo" alt="just a game" />

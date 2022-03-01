@@ -18,7 +18,7 @@ ReactDOM.render(
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path="/" element={<App />} />
+          <Route exact path="/React---e-comerce-site" element={<App />} />
           <Route path="cart" element={<Cart />} />
           <Route path="about" element={<About />} />
           <Route path="contact" element={<Contact />} />
